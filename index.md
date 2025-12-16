@@ -111,6 +111,19 @@ Data may be shared only with:
 
 ---
 
+## Data Retention and Deletion
+
+Photos uploaded for the photo roulette game are stored temporarily on our servers
+(using Supabase) solely to enable gameplay.
+
+All uploaded photos are **automatically deleted immediately after the game ends**.
+Photos are not retained, archived, or reused after deletion.
+
+Users may request deletion of their data at any time by contacting us at:
+
+**Email:** lukas.kouba.de@gmail.com
+
+
 ## 7. Your Privacy Rights and Data Deletion
 
 ### 7.1 Data Deletion
