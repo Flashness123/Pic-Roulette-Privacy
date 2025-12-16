@@ -3,7 +3,7 @@
 **Last updated:** 16 December 2025
 
 Pic Roulette (“the App”) is provided by an individual developer based in Germany (“we”, “us”, or “our”).  
-This Privacy Policy explains how information is collected, used, and disclosed when you use our mobile application.
+This Privacy Policy explains how information is collected, used, shared, and deleted when you use our mobile application.
 
 ---
 
@@ -18,27 +18,46 @@ We do **not** require users to create an account and we do **not** directly coll
 - Phone number  
 - Postal address  
 
-### 1.2 Camera Access
+---
 
-The App uses the device’s **camera** to allow users to take pictures.  
-All images are processed **locally on the device** and are **not uploaded or stored by us**.
+### 1.2 Photos and Camera Access
+
+The App uses the device’s **camera** to allow users to take photos as part of the photo roulette game.
+
+When a user starts a game:
+- Selected photos are **uploaded to our backend service (Supabase)**  
+- Photos are **shared with other users** participating in the game  
+- Photos are used **only** to enable the photo roulette gameplay  
+
+📌 **Photos are not used for advertising, analytics, or marketing.**
+
+---
+
+### 1.3 Photo Retention and Deletion
+
+Photos uploaded for gameplay are stored **temporarily** and are:
+
+- **Automatically deleted immediately after the game ends**
+- **Not retained**, archived, or reused after deletion
+
+Users may also request deletion of their data at any time (see Section 7).
 
 ---
 
 ## 2. Automatically Collected Information
 
-The App uses third-party services that may collect certain information automatically, including:
+The App uses third-party services that may automatically collect certain information, including:
 
 - Device information  
-- Usage data  
+- App usage and interaction data  
 - Approximate location (derived from IP address)  
 - Advertising identifiers  
 
 This information is used to:
 
-- Improve app performance  
-- Analyze usage  
-- Display advertisements  
+- Monitor app stability and performance  
+- Analyze how the app is used  
+- Display and measure advertisements  
 
 ---
 
@@ -48,20 +67,24 @@ Pic Roulette uses the following third-party services:
 
 - **Google Analytics** – for usage analytics  
 - **Google Ads / AdMob** – for displaying advertisements  
-- **Google Play Services**
+- **Google Play Services**  
+- **Supabase** – for temporary storage and sharing of photos during gameplay  
 
-These services may collect information as described in their own privacy policies:
+These services may collect and process data according to their own privacy policies.  
+We do not control how third-party services independently handle data.
 
+Relevant privacy policy:
 - https://policies.google.com/privacy
-
-We do not control and are not responsible for how third-party services handle your data.
 
 ---
 
 ## 4. Advertising
 
-The App displays ads provided by Google’s advertising services.  
-These ads may use advertising identifiers and cookies to show relevant ads.
+The App displays ads provided by Google advertising services.
+
+Ads may use:
+- Advertising identifiers  
+- Cookies or similar technologies  
 
 Users can opt out of personalized advertising via their device settings.
 
@@ -82,23 +105,36 @@ We do **not sell, trade, or rent** users’ personal information.
 
 Data may be shared only with:
 
-- Third-party service providers listed above  
+- Third-party service providers listed in this policy  
+- Other users **only for photo roulette gameplay**  
 - Authorities if required by law  
 
 ---
 
-## 7. Your Privacy Rights
+## 7. Your Privacy Rights and Data Deletion
 
-### 7.1 GDPR (EU Users)
+### 7.1 Data Deletion
 
-If you are located in the EU, you have the right to:
+Photos uploaded for gameplay are **automatically deleted immediately after the game ends**.
+
+Users may also request deletion of any data associated with their use of the App at any time by contacting us at:
+
+**Email:** lukas.kouba.de@gmail.com
+
+---
+
+### 7.2 GDPR (EU Users)
+
+If you are located in the European Union, you have the right to:
 
 - Access your data  
 - Request correction or deletion  
 - Object to processing  
 - Withdraw consent  
 
-### 7.2 CCPA / CPRA (California Users)
+---
+
+### 7.3 CCPA / CPRA (California Users)
 
 California residents have the right to:
 
@@ -106,13 +142,13 @@ California residents have the right to:
 - Request deletion of personal data  
 - Opt out of the sale of personal data  
 
-We do **not** sell personal data.
+📌 We do **not** sell personal data.
 
 ---
 
 ## 8. Data Security
 
-We take reasonable measures to protect information.  
+We take reasonable technical and organizational measures to protect information.  
 However, no method of transmission or storage is 100% secure.
 
 ---
@@ -120,12 +156,12 @@ However, no method of transmission or storage is 100% secure.
 ## 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.  
-Changes will be posted on this page with an updated **“Last updated”** date.
+Any changes will be posted on this page with an updated **“Last updated”** date.
 
 ---
 
 ## 10. Contact Us
 
-If you have any questions about this Privacy Policy, you can contact us at:
+If you have any questions about this Privacy Policy or your data, you can contact us at:
 
 **Email:** lukas.kouba.de@gmail.com
